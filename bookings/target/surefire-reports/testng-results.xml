@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.expedia.bookings.Test_wipclitest" duration-ms="39217" started-at="2018-09-13T12:14:10Z" finished-at="2018-09-13T12:14:49Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="39217" started-at="2018-09-13T12:14:10Z" finished-at="2018-09-13T12:14:49Z">
+      <class name="com.expedia.bookings.Test_wipclitest">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.expedia.bookings.Test_wipclitest@3b81a1bc]" name="setUpBeforeClass" is-config="true" duration-ms="4718" started-at="2018-09-13T14:14:10Z" finished-at="2018-09-13T14:14:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.expedia.bookings.Test_wipclitest@3b81a1bc]" name="test" duration-ms="33356" started-at="2018-09-13T14:14:15Z" finished-at="2018-09-13T14:14:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.expedia.bookings.Test_wipclitest@3b81a1bc]" name="afterClass" is-config="true" duration-ms="1123" started-at="2018-09-13T14:14:48Z" finished-at="2018-09-13T14:14:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.expedia.bookings.Test_wipclitest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.expedia.bookings.Test_wipclitest -->
+</testng-results>

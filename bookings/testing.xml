@@ -1,0 +1,11 @@
+
+
+<suite name="SanityTest TestSuite">
+	<test name="SanityTest">
+		<classes>
+			<class name="com.expedia.bookings.Test_wipclitest">
+
+			</class>
+		</classes>
+	</test>
+</suite>
